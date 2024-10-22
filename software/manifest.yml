@@ -1,0 +1,8 @@
+name: Manifest
+website_url: https://manifest.build
+description: "A Complete backend that fits into 1 YAML file."
+licenses:
+  - MIT
+tags:
+  - Software Development - Low Code
+demo_url: "https://manifest.new"
